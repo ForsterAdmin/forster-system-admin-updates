@@ -1,0 +1,19 @@
+{
+  "version": "0.5.0",
+  "notes": "Automated release for v0.5.0.",
+  "pub_date": "2026-04-21T20:06:41.396Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQzFsL1RudmlMaEs2aGg4SWdSVTFqY3VtNmF6VmFoOXdQamVwemNBMUIxQ2FCTWFvTkplMTEzVkNRbEQ4eGVreVI5SGE4Zkd3UEJBSUNHeTNTcmZsaUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODAxOTkyCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjBfeDY0LXNldHVwLmV4ZQo3YlhkaVcrMU9GaGxtQmJLOWdqNVdyV2w2dEpzaXZ5Q25YcC9taXJ4TzNBMzF2MnF1S1N3Y0QxQmNJU2NnU2JHTzF2ak45SmxIc29kWGNwN3BQcllDQT09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.0/Forster.System.Admin_0.5.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQzR4cDZPdmRSSC9oU21KOEUzV2JYMWxId2hIMWlQa2daN0RGeGFyaFM1U3MyWjgrby9KUmpVNi9ZUHIxTGN2YWFqbWZ0ZVBDUEhaSGRid3hvcmxFTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODAxOTkyCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjBfeDY0X2VuLVVTLm1zaQozRXBKQy9GTnVLdHR5NXFKb2pKVkFaeU0zSXlWTDVDa0xkMHlVNjV5Vk9zTURuRFlRRFY0Vms0bG5jN3l5UEEzOS9CaWZIVjBkbC9WSTRMUUgrM3BEZz09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.0/Forster.System.Admin_0.5.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQzFsL1RudmlMaEs2aGg4SWdSVTFqY3VtNmF6VmFoOXdQamVwemNBMUIxQ2FCTWFvTkplMTEzVkNRbEQ4eGVreVI5SGE4Zkd3UEJBSUNHeTNTcmZsaUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODAxOTkyCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjBfeDY0LXNldHVwLmV4ZQo3YlhkaVcrMU9GaGxtQmJLOWdqNVdyV2w2dEpzaXZ5Q25YcC9taXJ4TzNBMzF2MnF1S1N3Y0QxQmNJU2NnU2JHTzF2ak45SmxIc29kWGNwN3BQcllDQT09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.0/Forster.System.Admin_0.5.0_x64-setup.exe"
+    }
+  }
+}
