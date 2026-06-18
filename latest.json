@@ -1,19 +1,19 @@
 {
-  "version": "0.5.2",
-  "notes": "Automated release for v0.5.2.",
-  "pub_date": "2026-06-18T20:57:34.404Z",
+  "version": "0.5.3",
+  "notes": "Automated release for v0.5.3.",
+  "pub_date": "2026-06-18T21:30:12.403Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQy9HT1lHQ3JVeXdqcFBFR1ZQSmg0T0pJYXFpQ0FJcjg4NWpIVks3ZU0wWFM2eUxGMnphKzVMREVnUEwweHMxWlRDdlpBYnlNRklNa21LRmFTZ0pjMkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE2MjUwCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjJfeDY0LXNldHVwLmV4ZQpMQzZUSlBLUE9GbUVadXRmSDR3MDk1RWdCbU9rNVNKSUVhUExVUzJqUWV3SEs3V21RQm96NVMyMFFnSU1aUEdLRk1DMzI1V2VFR3JKalI1a2dxMHVCQT09Cg==",
-      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.2/Forster.System.Admin_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQ3cyb3V6akl3M1ppek4yZThIMWtMbUdDTTI3b2Z4OHF1Qnh4emM0cnFUWWRZcHFob3FBNzk1NFM3K25GRmEzSGpDTHYreUFRNDI2MzJqbGNUOCtKNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE4MjA4CWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjNfeDY0LXNldHVwLmV4ZQpKWW1aT2YvWVNyK0NrVzFOUjNVY2lLcHlCRkpvVCsxYzJnRm4zYWVuMGxmMXVoTVoxN201TUxMcks3SlQyVm16azc3UGF5ck5Wc3JWSFBrTDVtNXVEQT09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.3/Forster.System.Admin_0.5.3_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQzRzWjg4b1NtY0JKWS9WTEZCZWhTam1rNWpsZzZRZStmRmd1djROOG5PVVhQMDNLMjdIKzE4S2NNZWtlanorT2QrQ1luTnE4QU8wYXFGbDA1OXZPclE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE2MjUwCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjJfeDY0X2VuLVVTLm1zaQpYTDVYdEQzTGkzOHpzb1VIQ1oreHR2UVZjMUcrRmFHTUxlcEVOZWRyeEthbmdmWUQrU1gvRDhTUXc1ZDhuNHkzWHIxRFU3c3FKNFRzSDRlTTF6NzdBQT09Cg==",
-      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.2/Forster.System.Admin_0.5.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQzBxZXMvUTRYT1BHQXdraGovSnBOR0xZejRGdDJZQ1NaWG1rcitZM1BYeFBYa0FrTkpxa0NKNjRsRHdzS3locnFPb3lIZTFHUTNldy9YbVI5SnpvQkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE4MjA4CWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjNfeDY0X2VuLVVTLm1zaQowcXNzS1VrV1ovbXk4elNoSHRpcmN5TEY2M09sejlMc2h1UFJEUy82c3RGR0hRSXNTTzV0b1FqUkRPRWNCc09SSmlsYlA2REFxSXpsYm9iSE5UV0tBZz09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.3/Forster.System.Admin_0.5.3_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQy9HT1lHQ3JVeXdqcFBFR1ZQSmg0T0pJYXFpQ0FJcjg4NWpIVks3ZU0wWFM2eUxGMnphKzVMREVnUEwweHMxWlRDdlpBYnlNRklNa21LRmFTZ0pjMkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE2MjUwCWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjJfeDY0LXNldHVwLmV4ZQpMQzZUSlBLUE9GbUVadXRmSDR3MDk1RWdCbU9rNVNKSUVhUExVUzJqUWV3SEs3V21RQm96NVMyMFFnSU1aUEdLRk1DMzI1V2VFR3JKalI1a2dxMHVCQT09Cg==",
-      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.2/Forster.System.Admin_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmpCSFZVTmFEQ3cyb3V6akl3M1ppek4yZThIMWtMbUdDTTI3b2Z4OHF1Qnh4emM0cnFUWWRZcHFob3FBNzk1NFM3K25GRmEzSGpDTHYreUFRNDI2MzJqbGNUOCtKNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE4MjA4CWZpbGU6Rm9yc3RlciBTeXN0ZW0gQWRtaW5fMC41LjNfeDY0LXNldHVwLmV4ZQpKWW1aT2YvWVNyK0NrVzFOUjNVY2lLcHlCRkpvVCsxYzJnRm4zYWVuMGxmMXVoTVoxN201TUxMcks3SlQyVm16azc3UGF5ck5Wc3JWSFBrTDVtNXVEQT09Cg==",
+      "url": "https://github.com/ForsterAdmin/forster-system-admin-updates/releases/download/v0.5.3/Forster.System.Admin_0.5.3_x64-setup.exe"
     }
   }
 }
